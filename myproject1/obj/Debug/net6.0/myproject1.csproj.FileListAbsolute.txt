@@ -1,0 +1,15 @@
+C:\New folder\myproject1\myproject1\bin\Debug\net6.0\myproject1.exe
+C:\New folder\myproject1\myproject1\bin\Debug\net6.0\myproject1.deps.json
+C:\New folder\myproject1\myproject1\bin\Debug\net6.0\myproject1.runtimeconfig.json
+C:\New folder\myproject1\myproject1\bin\Debug\net6.0\myproject1.dll
+C:\New folder\myproject1\myproject1\bin\Debug\net6.0\myproject1.pdb
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.csproj.AssemblyReference.cache
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.AssemblyInfoInputs.cache
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.AssemblyInfo.cs
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.csproj.CoreCompileInputs.cache
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.dll
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\refint\myproject1.dll
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.pdb
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\myproject1.genruntimeconfig.cache
+C:\New folder\myproject1\myproject1\obj\Debug\net6.0\ref\myproject1.dll

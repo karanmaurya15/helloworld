@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, INDIA!");
+            Console.WriteLine("Hello, KK!");
             Console.Read();
         }
     }
